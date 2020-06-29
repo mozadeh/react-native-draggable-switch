@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thousight/react-native-draggable-switch.git"
+    "url": "https://github.com/mozadeh/react-native-draggable-switch.git"
   },
   "scripts": {
     "build": "rm -rf ./lib && tsc",
